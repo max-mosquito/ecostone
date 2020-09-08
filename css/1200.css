@@ -1,0 +1,42 @@
+@media (max-width: 1200px) {
+	.row_title {
+		padding-bottom: 20px;
+	}
+	.row_title h2 {
+		flex: 0 0 100%;
+	}
+	.row_title p {
+		flex:0 0 100%;
+	}
+	/*------start fullscren-----*/
+/*------end fullscren-----*/
+/*------start quality------*/
+/*------end quality------*/
+/*------start cert------*/
+/*------end cert------*/
+/*------start project-------*/
+/*------end project-------*/
+/*----start reason----*/
+/*----end reason----*/
+/*----start partners-----*/
+/*----end partners-----*/
+/*---start objects----*/
+.objects_title,
+.slider4 {
+	left: 50%;
+	transform: translateX(-50%);
+	z-index: 2;
+}
+/*---end objects----*/
+/*---start contacts---*/
+.contacts_block {
+	width: 475px;
+	padding: 43px 60px 36px;
+}
+/*---end contacts---*/
+/*-----start footer-------*/
+.footer_wrap {
+	flex-wrap: wrap;
+}
+/*-----end footer-------*/
+}

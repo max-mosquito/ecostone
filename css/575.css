@@ -1,0 +1,61 @@
+@media (max-width: 575px) {
+.slider2 {
+	margin: 0;
+}
+.slider2 .slick-arrow {
+	right: 0;
+}
+.fabrika_text-wrap {
+	margin-right: 20px;
+}
+.fabrika_text{
+	padding: 20px 15px;
+}
+.fabrika_border {
+	bottom: 75px;
+	left: 25px;
+}
+/*------start fullscren-----*/
+/*------end fullscren-----*/
+/*------start quality------*/
+/*------end quality------*/
+/*------start cert------*/
+/*------end cert------*/
+/*------start project-------*/
+/*------end project-------*/
+/*----start reason----*/
+/*----end reason----*/
+/*----start partners-----*/
+/*----end partners-----*/
+/*---start objects----*/
+	.slider4{
+		width: 300px;
+		top: 160px;
+	}
+	.slaider4_text {
+		padding: 10px 15px 30px;
+		}
+	.slider4 .slick-arrow {
+		bottom: 0;
+		right: 0;
+		transform: translate(0, 0);
+	}
+/*---end objects----*/
+/*---start contacts---*/
+.contacts {
+	background: url("../img/bg_contacts.webp") 25% center no-repeat;
+}
+.contacts_block {
+	width: 300px;
+	padding: 20px;
+	height: 240px;
+}
+/*---end contacts---*/
+/*-----start footer-------*/
+	.footer_menu,
+	.footer_copyright,
+	.footer_contacts {
+		flex: 0 0 100%;
+	}
+/*-----end footer-------*/
+}

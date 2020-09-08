@@ -1,0 +1,46 @@
+@media (max-width: 991px) {
+	.row_content{
+		-webkit-flex-wrap: wrap;
+		-moz-flex-wrap: wrap;
+		-ms-flex-wrap: wrap;
+		-o-flex-wrap: wrap;
+		flex-wrap: wrap;
+	}
+	.row_content-title {
+		flex: 0 0 100%;
+		padding-bottom: 20px;
+	}
+	.row_content-slider2 {
+		flex: 0 0 100%;
+	}
+	.row_content-title p {
+		font-size: 18px;
+		line-height: normal;
+	}
+	/*------start fullscren-----*/
+/*------end fullscren-----*/
+/*------start quality------*/
+/*------end quality------*/
+/*------start cert------*/
+/*------end cert------*/
+/*------start project-------*/
+/*------end project-------*/
+/*----start reason----*/
+/*----end reason----*/
+/*----start partners-----*/
+/*----end partners-----*/
+/*---start objects----*/
+/*---end objects----*/
+/*---start contacts---*/
+.contacts_block {
+	padding: 20px 35px;
+	width: 360px;
+	height: 280px;
+}
+.contacts_block_header {
+	padding-bottom: 5px;
+}
+/*---end contacts---*/
+/*-----start footer-------*/
+/*-----end footer-------*/
+}
