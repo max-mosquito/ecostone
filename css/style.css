@@ -769,7 +769,7 @@ li {
 /* ------end fullscren-----*/
 /* ------start quality------*/
 .quality {
-  background: url("../img/bg_quality.webp") center/cover no-repeat;
+  background: url("../img/bg_quality.jpg") center/cover no-repeat;
   margin: 0 0 100px;
 }
 
@@ -786,6 +786,7 @@ li {
           align-items: flex-end;
   position: relative;
   padding: 90px 0;
+  margin-bottom: -100px;
 }
 
 .q_left_image {
@@ -872,7 +873,8 @@ li {
 /* ------end quality------*/
 /* ------start cert------*/
 .cert {
-  padding: 0 0 180px;
+  padding: 100px 0 180px;
+  background-color: #cdc9c5;
 }
 
 .cert_wrap {
@@ -949,7 +951,7 @@ li {
 /* ------end cert------*/
 /* ------start project-------*/
 .project {
-  background: url("../img/bg_project.webp") center/cover no-repeat;
+  background: url("../img/bg_project.jpg") center/cover no-repeat;
 }
 
 .project_wrap {
@@ -1355,7 +1357,7 @@ li {
 /* ---start contacts---*/
 .contacts {
   height: 858px;
-  background: url("../img/bg_contacts.webp") center no-repeat;
+  background: url("../img/bg_contacts.jpg") center no-repeat;
   position: relative;
   padding: 0 15px;
 }
